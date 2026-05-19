@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Session exports (timestamped PNG/CSV snapshots)
+*bus*.png
+*bus*_buses.csv
+*bus*_branches.csv
+*bus*_generators.csv
+9bus_*.png
+9bus_*.csv
+14bus_*.png
+14bus_*.csv
+39bus_*.png
+39bus_*.csv
+
+# Streamlit
+.streamlit/
+
+# macOS
+.DS_Store
